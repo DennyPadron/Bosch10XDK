@@ -22,4 +22,5 @@ If you want to see the system working you can go to this web site: https://bosch
 *Type: Admistrador
 
 License
-The code is open source and available under the MIT License.
+The code is open source and available under the  GNU GENERAL PUBLIC LICENSE
+                
